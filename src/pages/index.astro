@@ -4,12 +4,17 @@ import PageLayout from "../layouts/PageLayout.astro";
 import Intro from "../components/Intro.astro";
 import AboutTheTheme from "../components/AboutTheTheme.astro";
 import { SITE_TITLE } from "../config";
+import LottieAnimation from "astro-integration-lottie/Lottie.astro";
 ---
 
 <PageLayout>
-  <PageMeta title={`${SITE_TITLE} | Web Ninja`} slot="meta" />
+  <PageMeta title={`${SITE_TITLE}`} slot="meta" />
   <Fragment slot="main">
     <Intro />
+      <LottieAnimation
+        src="../assets/programming.json"
+        autoplay="visible"
+      ></LottieAnimation>
     <AboutTheTheme />
   </Fragment>
 </PageLayout>
