@@ -1,7 +1,7 @@
 ---
 draft: true
-title: Draft link
-description: This link is a draft and won't be built.
-date: 2022-02-22
-url: https://abc.xyz
+title: Houssets
+description: Better solution for all the housing needs and recommendations.
+date: 02-03-2024
+url: https://houssets.vercel.app
 ---
