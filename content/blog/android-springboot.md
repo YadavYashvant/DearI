@@ -1,6 +1,6 @@
 ---
 external: false
-title: ""
-description: "You can author content using the familiar markdown syntax you already know. All basic markdown syntax is supported."
+title: "Using springboot as backend for android projects"
+description: "Native android projects with springboot as backend"
 date: 2022-11-02
 ---
