@@ -9,3 +9,4 @@ date: 2024-03-03
 
 - Go to [Spring Initializr](https://start.spring.io)
 - Generate a springboot project with some dependencies, namely web, lombok etc.
+- Generate the project and download the zip file and then open the extracted folder in Intellij Idea or STS.
