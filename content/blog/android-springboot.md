@@ -102,6 +102,8 @@ Now that we have set up our Spring Boot project, let's integrate it with our And
 
 ---
 
-By integrating your Spring Boot backend with your Android app using the provided steps and code snippets, you can create a seamless user experience with efficient data exchange between the frontend and backend.
+That's how we can integrate Spring Boot backend with an Android app using the provided steps and code snippets.
+
+**One thing to be noted is that this is just a demonstration and not any practical application, though one can apply this knowledge to build android apps with springboot as backend.**
 
 Stay tuned for more tutorials and guides on Android development with Spring Boot! Feel free to reach out if you have any questions or need further assistance.
