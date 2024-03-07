@@ -2,7 +2,7 @@
 external: false
 title: "Using springboot as backend for android projects"
 description: "Native android projects with springboot as backend"
-date: 2024-03-03
+date: 2024-03-07
 ---
 
 ## Setting up a springboot project
