@@ -1,6 +1,6 @@
 ---
 title: Quickity
-description: Better solution for all the housing needs and recommendations.
+description: A smarter solution for hassle in shopping malls.
 date: 2018-04-06
-url: https://houssets.vercel.app
+url: https://github.com/YadavYashvant/Quickity
 ---
